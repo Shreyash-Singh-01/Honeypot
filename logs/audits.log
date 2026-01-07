@@ -1,0 +1,18 @@
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: ""
+Login attempt username: from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: "hi"
+Login attempt username:hi from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: "hi"
+Login attempt username:hi from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: "hi"
+Login attempt username:hi from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: "password"
+Login attempt username:password from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "hi" and Password: "hi"
+Login attempt hi:hi from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "hi" and Password: "password"
+Login attempt hi:password from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "hi" and Password: "hii"
+Login attempt hi:hii from 192.168.1.43
+Client IP: 192.168.1.43 - Attempted login with Username: "username" and Password: "password"
+Login attempt username:password from 192.168.1.43
